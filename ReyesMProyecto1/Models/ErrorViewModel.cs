@@ -7,4 +7,3 @@ namespace ReyesMProyecto1.Models
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
 }
-//Comentario de prueba 2
